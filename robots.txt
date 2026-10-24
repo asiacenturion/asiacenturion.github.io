@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asiacenturion.github.io/sitemap.xml
